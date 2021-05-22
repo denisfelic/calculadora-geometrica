@@ -71,3 +71,5 @@ const triangleObject = {
 
 loadTabsBehaviour()
 triangleObject.start()
+ObjectSave.fillTextAreaBehavior()
+ObjectSave.downloadObjectsBehavior()
